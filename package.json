@@ -1,6 +1,6 @@
 {
-  "homepage": "http://PrinceSachan.github.io/clone-netflix",
   "name": "netflix-clone",
+  "homepage": "https://PrinceSachan.github.io/netflix-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "react-youtube": "^7.13.1",
     "web-vitals": "^1.1.2"
   },
-  "scripts": {
+  "scripts": { 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
